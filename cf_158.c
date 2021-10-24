@@ -1,7 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-#define <test.h>
+//#define <test.h>
+//ggggg
 #define max_sum 1000000007
 
 int main(void)
