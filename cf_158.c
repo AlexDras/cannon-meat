@@ -1,8 +1,10 @@
+#include <stdlib.h>
 #include <stdio.h>
 #define max_sum 1000000007
 
 int main(void)
 {
+    char trash = '0';
     unsigned long long count_inp, number, out_summ;
     double base;
     for (scanf("%llu", &count_inp); count_inp > 0; count_inp--) {
